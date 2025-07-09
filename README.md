@@ -81,5 +81,5 @@ This project helped me apply and develop the following skills:
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/mohammed-saeed-4148b423b/)
-- [GitHub](https://github.com/Mohamedsaeed12-5)
+- [LinkedIn](https://www.linkedin.com/in/moazshaker/)
+- [GitHub](https://github.com/Moaz-shaker)
