@@ -1,7 +1,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-# Sales-Analysis-Dashboard-PowerBI
+# Sales-Analysis Dashboard ( PowerBI )
 
 This project is an **interactive sales dashboard** developed using Power BI It provides key insights into sales performance, shipping efficiency, and regional revenue distribution.
 
