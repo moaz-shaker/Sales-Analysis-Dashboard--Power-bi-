@@ -3,8 +3,7 @@
 
 # Sales-Analysis-Dashboard-PowerBI
 
-This project is an **interactive sales dashboard** developed using Power BI as part of my training at the **Information Technology Institute (ITI)**.  
-It provides key insights into sales performance, shipping efficiency, and regional revenue distribution.
+This project is an **interactive sales dashboard** developed using Power BI It provides key insights into sales performance, shipping efficiency, and regional revenue distribution.
 
 ---
 
